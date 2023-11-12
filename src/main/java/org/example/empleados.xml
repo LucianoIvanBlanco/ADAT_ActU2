@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<empleados>
+    <empleado>
+        <nombre>Juan</nombre>
+        <apellido>Perez</apellido>
+        <dni>P92304923</dni>
+        <depto>Ventas</depto>
+    </empleado>
+    <empleado>
+        <nombre>Pedro</nombre>
+        <apellido>Soza</apellido>
+        <dni>P98742012</dni>
+        <depto>Ventas</depto>
+    </empleado>
+    <empleado>
+        <nombre>Ramon</nombre>
+        <apellido>Carbajal</apellido>
+        <dni>S92398772</dni>
+        <depto>Administracion</depto>
+    </empleado>
+    <empleado>
+        <nombre>Manuel</nombre>
+        <apellido>Olivera</apellido>
+        <dni>R09083228</dni>
+        <depto>RRHH</depto>
+    </empleado>
+    <empleado>
+        <nombre>Facundo</nombre>
+        <apellido>Dominguez</apellido>
+        <dni>L83947321</dni>
+        <depto>Marketing</depto>
+    </empleado>
+    <empleado>
+        <nombre>Diego</nombre>
+        <apellido>Gimenez</apellido>
+        <dni>O30294823</dni>
+        <depto>Gerencia</depto>
+    </empleado>
+</empleados>
